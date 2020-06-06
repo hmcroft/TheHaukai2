@@ -24,3 +24,9 @@ To change to a small logo
 https://www.webdesignersacademy.com/display-a-completely-different-logo-on-mobile-browsers/
 
 https://ryanfeigenbaum.com/easy-responsive-typography/
+
+http://kodhus.com/newsite/lesson-3-adding-header-image-navigation-section/
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/margin-right
+
+https://css-tricks.com/how-do-you-do-max-font-size-in-css/
